@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello World!! 👋
 
-<!--
-**chAhmedRaza/chAhmedRaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ahmed Raza, a Full Stack Developer 🚀 from Pakistan. 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Laravel, Vue JS, Ionic Vue, Tailwind & GraphQl.
+- 📃 I’m currently learning Quasar and Firebase.
+- 👯 I’m looking to collaborate on Vue Js.
+- 💕 My two loves: Coding and Chaah ☕ !!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Don't forget to check my open source packges/themes of vue and tailwind
+- vue-image-tags
+- tailwind-vue-ecommerce-kit
+
+Get in touch 📞
+- You can follow me on Linkedin @chAhmedRaza
+
+
