@@ -1,11 +1,10 @@
-# Hello World!! 👋
+# Hello there!! 👋
 
 I'm Ahmed Raza, a Full Stack Developer 🚀 from Pakistan. 
 
-- 🔭 I’m currently working on Laravel, Vue JS, Ionic Vue, Tailwind & GraphQl.
-- 📃 I’m currently learning Quasar and Firebase.
+- 🔭 I’m currently working on Laravel, GraphQL, Vue JS & Tailwind.
+- 📃 I contribute to open-source in my spare time.
 - 👯 I’m looking to collaborate on Vue Js.
-- 💕 My two loves: Coding and Chaah ☕ !!
 
 
 ### Here's a list of all my skills
